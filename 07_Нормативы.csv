@@ -1,0 +1,6 @@
+﻿metric,description,target,yellow_border,direction
+SLA,Доля решённых в срок,0.92,0.88,higher
+average_hours,Среднее время решения,6.0,9.0,lower
+p90_hours,90-й перцентиль времени решения,20.0,30.0,lower
+repeat_share,Доля повторных обращений,0.08,0.12,lower
+rating,Средняя оценка пользователя,4.3,4.0,higher
